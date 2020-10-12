@@ -1,3 +1,3 @@
 # DESAFIO_2
 
-Código referente ao desefio da disciplina de Programação Java
+Código referente ao desafio da disciplina de Metodológia de Programação Avançada Java
